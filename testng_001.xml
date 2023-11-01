@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/rashi.singh/Documents/APIRestAssured/src/test/java">
+        <classes>
+           <!-- <class name="org.example.AppTest">
+                <methods>
+                    <include name="getRequestping"/>
+                </methods>
+            </class>
+            <class name="org.example.oct15.testngexamples.AllAnnotation">
+                <methods>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                </methods>
+            </class>
+            <class name="org.example.oct15.testngexamples.TestNG001">
+                <methods>
+                    <include name="test1"/>
+                    <include name="test2"/>
+                </methods>
+            </class>
+            <class name="org.example.oct15.testngexamples.TestNG003">
+                <methods>
+                    <include name="test1"/>
+                </methods>
+            </class>-->
+            <class name="org.example.oct15.testngexamples.restassured.Rest001">
+            </class>
+        </classes>
+    </test>
+</suite>
